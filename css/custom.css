@@ -91,7 +91,7 @@ mg-y-20 {
     color: #fff;
     font-size: 20px;
     font-weight: 300;
-    text-transform: uppercase;
+    text-transform: none;
     margin: 30px 0 60px;
     letter-spacing: 1px;
 }
